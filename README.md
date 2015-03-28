@@ -5,7 +5,7 @@ Just for test
 
 $(document).ready(function() {
     $('div').click(function() {
-        $(this).fadeOut('slow');
+        $(this).fadein('slow');
     });
 });                 // $(.this) is used for effecting  a particular function
 
